@@ -14,3 +14,7 @@ This code uses the libcurl and libxml2 libraries, which need to be installed on 
 execute the file
 
     ./extract_files <URL>
+
+# Warning
+This program is purely for educational purpose only. 
+The Owner of the Repo or code is not responsible for any of its misuse. 
